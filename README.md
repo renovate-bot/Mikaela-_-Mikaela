@@ -20,11 +20,11 @@ with:
   [Forĝejo](https://git.piraattipuolue.fi/), presenting us in
   [PirateIRC](https://pirateirc.net/) and often communicating with the upstream
   projects, our users or other Pirate Parties.
-  - Are you entitled to vote in Finland? Please consider
+  <!-- - Are you entitled to vote in Finland? Please consider
     [signing our online supporter card](https://puoluerekisteri.fi/#/puolue/51)
     so we can become a registered party again. It's free, doesn't bind you to
     anything and unlike with presidential elections, you can sign supporter
-    cards to as many parties as you would like.
+    cards to as many parties as you would like.-->
 - I am a [FluffyChat](https://gitlab.com/famedly/fluffychat/) moderator at
   Matrix, helping when I can in the rooms and occassionally contributing to
   documentation either within FluffyChat or wider Matrix ecosystem (where some
