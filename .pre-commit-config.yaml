@@ -27,6 +27,8 @@ repos:
         exclude_types: [svg, tsv]
       - id: mixed-line-ending
         args: [--fix=auto]
+      - id: pretty-format-json
+        args: [--autofix, --no-ensure-ascii]
 
   - repo: https://github.com/pre-commit-ci/pre-commit-ci-config
     rev: v1.6.1

@@ -1,0 +1,12 @@
+{
+  "bracketSameLine": true,
+  "endOfLine": "auto",
+  "insertPragma": true,
+  "plugins": [
+    "prettier-plugin-sh"
+  ],
+  "proseWrap": "always",
+  "quoteProps": "consistent",
+  "requirePragma": false,
+  "singleAttributePerLine": true
+}

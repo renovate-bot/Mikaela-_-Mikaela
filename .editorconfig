@@ -8,6 +8,6 @@ indent_style = tab
 indent_size = tab
 end_of_line = lf
 
-[{*.{md,yaml,yml,cff},.prettierrc}]
+[{*.{md,yaml,yml,cff,json}}]
 indent_style = space
 indent_size = 2
